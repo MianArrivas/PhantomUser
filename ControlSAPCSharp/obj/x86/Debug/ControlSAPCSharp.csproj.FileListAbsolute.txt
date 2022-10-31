@@ -1,0 +1,18 @@
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\01. Backup\Proyectos\Arriamgu\Practicas\ControlSAPCSharp\ControlSAPCSharp\bin\Debug\ControlSAPCSharp.exe.config
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\01. Backup\Proyectos\Arriamgu\Practicas\ControlSAPCSharp\ControlSAPCSharp\bin\Debug\ControlSAPCSharp.exe
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\01. Backup\Proyectos\Arriamgu\Practicas\ControlSAPCSharp\ControlSAPCSharp\bin\Debug\ControlSAPCSharp.pdb
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\01. Backup\Proyectos\Arriamgu\Practicas\ControlSAPCSharp\ControlSAPCSharp\obj\x86\Debug\ControlSAPCSharp.Frm__CtrlSAP.resources
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\01. Backup\Proyectos\Arriamgu\Practicas\ControlSAPCSharp\ControlSAPCSharp\obj\x86\Debug\ControlSAPCSharp.Properties.Resources.resources
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\01. Backup\Proyectos\Arriamgu\Practicas\ControlSAPCSharp\ControlSAPCSharp\obj\x86\Debug\ControlSAPCSharp.csproj.GenerateResource.Cache
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\01. Backup\Proyectos\Arriamgu\Practicas\ControlSAPCSharp\ControlSAPCSharp\obj\x86\Debug\ControlSAPCSharp.exe
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\01. Backup\Proyectos\Arriamgu\Practicas\ControlSAPCSharp\ControlSAPCSharp\obj\x86\Debug\ControlSAPCSharp.pdb
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\01. Backup\Proyectos\Arriamgu\Practicas\ControlSAPCSharp\ControlSAPCSharp\obj\x86\Debug\ControlSAPCSharp.csprojResolveAssemblyReference.cache
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\ControlSAPCSharp\ControlSAPCSharp\bin\Debug\ControlSAPCSharp.exe.config
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\ControlSAPCSharp\ControlSAPCSharp\obj\x86\Debug\ControlSAPCSharp.exe
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\ControlSAPCSharp\ControlSAPCSharp\obj\x86\Debug\ControlSAPCSharp.pdb
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\ControlSAPCSharp\ControlSAPCSharp\bin\Debug\ControlSAPCSharp.exe
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\ControlSAPCSharp\ControlSAPCSharp\bin\Debug\ControlSAPCSharp.pdb
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\ControlSAPCSharp\ControlSAPCSharp\obj\x86\Debug\ControlSAPCSharp.csprojResolveAssemblyReference.cache
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\ControlSAPCSharp\ControlSAPCSharp\obj\x86\Debug\ControlSAPCSharp.Frm__CtrlSAP.resources
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\ControlSAPCSharp\ControlSAPCSharp\obj\x86\Debug\ControlSAPCSharp.Properties.Resources.resources
+C:\Users\arriamgu\Documents\Miguel Arriaga\01. Personal\ControlSAPCSharp\ControlSAPCSharp\obj\x86\Debug\ControlSAPCSharp.csproj.GenerateResource.Cache
